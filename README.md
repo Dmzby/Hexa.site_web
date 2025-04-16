@@ -1,6 +1,4 @@
 #  Hexa Site 
-
-## Description 
 website company untuk memasarkan jasa dari HexaSite
 
 ## 🚀 Features 🚀
